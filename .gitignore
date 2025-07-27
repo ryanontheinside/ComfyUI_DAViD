@@ -1,0 +1,100 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.junit/
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pytype
+.pytype/
+
+# Pylint
+.pylint.d/
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# dotenv
+.env
+.env.*
+
+# SQLite
+*.sqlite3
+*.db
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
